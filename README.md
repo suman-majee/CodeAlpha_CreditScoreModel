@@ -16,7 +16,7 @@ Predict an individual’s creditworthiness using historical financial data.
 - Python
 - Pandas, NumPy, Seaborn, Matplotlib
 - Scikit-learn
-- Google Colab / Jupyter Notebook
+- Google Colab
 
 ## 📁 Dataset:
 [Kaggle - Credit Risk Dataset](https://www.kaggle.com/datasets/yasserh/credit-risk)
