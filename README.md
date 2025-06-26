@@ -43,7 +43,4 @@ Random Forest performed best with:
 - `README.md`
 
 ## 👩‍💻 Intern:
-[Your Name Here]
-
-## 🔗 Video Explanation:
-[Add your LinkedIn video link here]
+Suman Majee
