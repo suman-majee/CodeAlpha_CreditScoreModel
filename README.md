@@ -1,7 +1,7 @@
 # CodeAlpha_CreditScoreModel
 
 🔍 Project Title:
-Credit Score Prediction using Machine Learning**
+Credit Score Prediction using Machine Learning
 
 📌 Objective:
 Predict an individual’s creditworthiness using historical financial data.
@@ -24,18 +24,18 @@ Google Colab
 📊 Model Performance:
 Random Forest performed best with:
 
-Class 0 (Non-default):**
+Class 0 (Non-default):
   Precision: 0.92
   Recall: 0.99
   F1-Score: 0.96
 
-Class 1 (Default):**
+Class 1 (Default):
   Precision: 0.96
   Recall: 0.70
   F1-Score: 0.81
 
-Accuracy:** 93%  
-ROC-AUC Score:** 0.93
+Accuracy: 93%  
+ROC-AUC Score: 0.93
 
 📂 Files in Repo:
 `credit_score_model.ipynb`: Notebook with code
